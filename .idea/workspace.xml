@@ -1,0 +1,414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b163ba75-ba54-4408-8933-4bea096cf8b1" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1371997785">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="go" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Go" value="12" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="go" value="18852" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Go" value="18852" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="814914967">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions/functions.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/main_test.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1377">
+              <caret line="235" selection-start-line="235" selection-end-line="235" />
+              <folding>
+                <element signature="n#!!block;n#TestBadGuyMovesTowardsHero#0" />
+                <element signature="n#!!block;n#TestSelectLegalSpotForHero#0" />
+                <element signature="n#!!block;n#TestInitializeBullet#0" />
+                <element signature="n#!!block;n#TestCheckAllBadGuysDead#0" />
+                <element signature="n#!!block;n#TestChangeLevel#0" />
+                <element signature="n#!!block;n#TestBadGuyTouchHero#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/main.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <folding>
+                <element signature="n#!!block;n#LoadPicture#0" />
+                <element signature="n#!!block;n#DrawGame#0" />
+                <element signature="n#!!block;n#SelectLegalSpotForBadGuy#0" />
+                <element signature="n#!!block;n#SelectLegalSpotForHero#0" />
+                <element signature="n#!!block;n#InitializeBullet#0" />
+                <element signature="n#!!block;n#NewHero#0" />
+                <element signature="n#!!block;n#NewBadGuy#0" />
+                <element signature="n#!!block;n#InitializeBadGuys#0" />
+                <element signature="n#!!block;n#CheckHeroStats#0" />
+                <element signature="n#!!block;n#CheckIfTouchedWall#0" />
+                <element signature="n#!!block;n#BadGuyMovesTowardsHero#0" />
+                <element signature="n#!!block;n#BadGuyTouchHero#0" />
+                <element signature="n#!!block;n#BulletHitBadGuy#0" />
+                <element signature="n#!!block;n#CheckBadGuyBulletDirection#0" />
+                <element signature="n#!!block;n#BadGuyShootsBullet#0" />
+                <element signature="n#!!block;n#DisplayScore#0" />
+                <element signature="n#!!block;n#DisplayLives#0" />
+                <element signature="n#!!block;n#DisplayLevel#0" />
+                <element signature="n#!!block;n#PlaySound#0" />
+                <element signature="n#!!block;n#DisplayGameOver#0" />
+                <element signature="n#!!block;n#DisplayHeroWin#0" />
+                <element signature="n#!!block;n#CheckAllBadGuysDead#0" />
+                <element signature="n#!!block;n#ChangeLevel#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>play</find>
+      <find>playSou</find>
+      <find>fmt.println(</find>
+      <find>hero1</find>
+      <find>6</find>
+      <find>fmt.prin</find>
+      <find>go</find>
+      <find>true</find>
+      <find>-</find>
+      <find>fmt.print</find>
+    </findStrings>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/functions/functions.go" />
+        <option value="$PROJECT_DIR$/main.go" />
+        <option value="$PROJECT_DIR$/main_test.go" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="berzerkSaumyaBhatnagar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="berzerkSaumyaBhatnagar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="berzerkSaumyaBhatnagar" type="b2602c69:ProjectViewProjectNode" />
+              <item name="berzerkSaumyaBhatnagar" type="462c0819:PsiDirectoryNode" />
+              <item name="functions" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="berzerkSaumyaBhatnagar" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="berzerkSaumyaBhatnagar" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="berzerkSaumyaBhatnagar" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="berzerkSaumyaBhatnagar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestBadGuyTouchHero$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestChangeLevel in berzerkSaumyaBhatnagar" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="berzerkSaumyaBhatnagar" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="berzerkSaumyaBhatnagar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestChangeLevel$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCheckAllBadGuysDead in berzerkSaumyaBhatnagar" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="berzerkSaumyaBhatnagar" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="berzerkSaumyaBhatnagar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCheckAllBadGuysDead$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go test berzerkSaumyaBhatnagar" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="berzerkSaumyaBhatnagar" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="berzerkSaumyaBhatnagar" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build main.go" />
+      <item itemvalue="Go Test.TestCheckAllBadGuysDead in berzerkSaumyaBhatnagar" />
+      <item itemvalue="Go Test.TestChangeLevel in berzerkSaumyaBhatnagar" />
+      <item itemvalue="Go Test.go test berzerkSaumyaBhatnagar" />
+      <item itemvalue="Go Test.TestBadGuyTouchHero in berzerkSaumyaBhatnagar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Test.TestBadGuyTouchHero in berzerkSaumyaBhatnagar" />
+        <item itemvalue="Go Test.go test berzerkSaumyaBhatnagar" />
+        <item itemvalue="Go Test.TestChangeLevel in berzerkSaumyaBhatnagar" />
+        <item itemvalue="Go Test.TestCheckAllBadGuysDead in berzerkSaumyaBhatnagar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 30m 39s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 31m 21s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 32m 31s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 34m 02s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 34m 40s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 34m 59s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 36m 00s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 36m 45s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 37m 10s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="TestBadGuyTouchHero_in_berzerkSaumyaBhatnagar - 2018.12.18 at 22h 37m 43s.xml">
+      <configuration name="TestBadGuyTouchHero in berzerkSaumyaBhatnagar" configurationId="GoTestRunConfiguration" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33224222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33224222" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3289689" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/functions/functions.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="235" selection-start-line="235" selection-end-line="235" />
+          <folding>
+            <element signature="n#!!block;n#TestBadGuyMovesTowardsHero#0" />
+            <element signature="n#!!block;n#TestSelectLegalSpotForHero#0" />
+            <element signature="n#!!block;n#TestInitializeBullet#0" />
+            <element signature="n#!!block;n#TestCheckAllBadGuysDead#0" />
+            <element signature="n#!!block;n#TestChangeLevel#0" />
+            <element signature="n#!!block;n#TestBadGuyTouchHero#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <folding>
+            <element signature="n#!!block;n#LoadPicture#0" />
+            <element signature="n#!!block;n#DrawGame#0" />
+            <element signature="n#!!block;n#SelectLegalSpotForBadGuy#0" />
+            <element signature="n#!!block;n#SelectLegalSpotForHero#0" />
+            <element signature="n#!!block;n#InitializeBullet#0" />
+            <element signature="n#!!block;n#NewHero#0" />
+            <element signature="n#!!block;n#NewBadGuy#0" />
+            <element signature="n#!!block;n#InitializeBadGuys#0" />
+            <element signature="n#!!block;n#CheckHeroStats#0" />
+            <element signature="n#!!block;n#CheckIfTouchedWall#0" />
+            <element signature="n#!!block;n#BadGuyMovesTowardsHero#0" />
+            <element signature="n#!!block;n#BadGuyTouchHero#0" />
+            <element signature="n#!!block;n#BulletHitBadGuy#0" />
+            <element signature="n#!!block;n#CheckBadGuyBulletDirection#0" />
+            <element signature="n#!!block;n#BadGuyShootsBullet#0" />
+            <element signature="n#!!block;n#DisplayScore#0" />
+            <element signature="n#!!block;n#DisplayLives#0" />
+            <element signature="n#!!block;n#DisplayLevel#0" />
+            <element signature="n#!!block;n#PlaySound#0" />
+            <element signature="n#!!block;n#DisplayGameOver#0" />
+            <element signature="n#!!block;n#DisplayHeroWin#0" />
+            <element signature="n#!!block;n#CheckAllBadGuysDead#0" />
+            <element signature="n#!!block;n#ChangeLevel#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
